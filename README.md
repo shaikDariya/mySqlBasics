@@ -1,2 +1,0 @@
-# mySqlBasics
-Created with CodeSandbox
